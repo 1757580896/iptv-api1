@@ -113,6 +113,7 @@ https://raw.githubusercontent.com/1757580896/tvyuan/main/%E6%B9%96%E5%8D%97%E7%A
 https://raw.githubusercontent.com/1757580896/tvyuan/main/%E6%B9%96%E5%8D%97%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD.txt # 湖南联通组播.txt
 
 https://raw.githubusercontent.com/my-tv1/tvyuan/main/%E9%85%B79%E4%B8%93%E7%BA%BF.txt # 酷9专线.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E9%85%B79%E7%94%B5%E4%BF%A1V4%E7%9B%B4%E6%92%AD%E6%BA%90 # 酷9电信V4直播源
 https://raw.githubusercontent.com/my-tv1/tvyuan/main/%E5%9F%8E%E5%BB%BA%E5%AD%A6%E9%99%A2TV.txt # 城建学院TV.txt
 https://raw.githubusercontent.com/my-tv1/tvyuan/main/%E5%92%AA%E5%92%95.txt # 咪咕.txt
 https://raw.githubusercontent.com/my-tv1/tvyuan/main/%E5%92%AA%E5%92%95%E7%A7%BB%E5%8A%A8.txt # 咪咕移动.txt
