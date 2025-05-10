@@ -100,6 +100,18 @@ https://raw.githubusercontent.com/my-tv1/sy-iptv/main/ShaanxiTV.m3u
 
 # tvyuan
 https://raw.githubusercontent.com/my-tv1/tvyuan/main/%E8%BE%BD%E5%AE%81%E7%A7%BB%E5%8A%A8V6.txt #辽宁移动V6.txt
+
+#湖南
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E6%B9%96%E5%8D%97%E7%94%B5%E4%BF%A1124.txt # 湖南电信124.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E6%B9%96%E5%8D%97%E7%94%B5%E4%BF%A1%E7%BB%84%E6%92%AD.txt # 湖南电信组播.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E6%B9%96%E5%8D%97%E7%94%B5%E4%BF%A1%E7%BB%84%E6%92%ADIP%E7%89%88.txt # 湖南电信组播IP版.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E6%B9%96%E5%8D%97%E7%A7%BB%E5%8A%A82025.txt # 湖南移动2025.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E6%B9%96%E5%8D%97%E7%A7%BB%E5%8A%A839%E9%AB%98%E6%B8%85OTT.txt # 湖南移动39高清OTT.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E6%B9%96%E5%8D%97%E7%A7%BB%E5%8A%A8%E5%86%85%E7%BD%91%E9%9D%9E%E7%BB%84%E6%92%AD%E7%94%B5%E8%A7%86%E6%BA%902025.txt # 湖南移动内网非组播电视源2025.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E6%B9%96%E5%8D%97%E7%A7%BB%E5%8A%A8%E7%BB%84%E6%92%AD.txt # 湖南移动组播.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E6%B9%96%E5%8D%97%E7%A7%BB%E5%8A%A8%E9%AB%98%E6%B8%85ipv6%EF%BC%88%E9%9D%9E%E5%AE%8C%E6%95%B4%EF%BC%89.txt # 湖南移动高清ipv6（非完整）.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E6%B9%96%E5%8D%97%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD.txt # 湖南联通组播.txt
+
 https://raw.githubusercontent.com/my-tv1/tvyuan/main/%E9%85%B79%E4%B8%93%E7%BA%BF.txt # 酷9专线.txt
 https://raw.githubusercontent.com/my-tv1/tvyuan/main/%E5%9F%8E%E5%BB%BA%E5%AD%A6%E9%99%A2TV.txt # 城建学院TV.txt
 https://raw.githubusercontent.com/my-tv1/tvyuan/main/%E5%92%AA%E5%92%95.txt # 咪咕.txt
