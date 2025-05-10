@@ -117,6 +117,27 @@ https://raw.githubusercontent.com/1757580896/tvyuan/main/%E6%B9%96%E5%8D%97%E7%A
 https://raw.githubusercontent.com/1757580896/tvyuan/main/%E6%B9%96%E5%8D%97%E7%A7%BB%E5%8A%A8%E7%BB%84%E6%92%AD.txt # 湖南移动组播.txt
 https://raw.githubusercontent.com/1757580896/tvyuan/main/%E6%B9%96%E5%8D%97%E7%A7%BB%E5%8A%A8%E9%AB%98%E6%B8%85ipv6%EF%BC%88%E9%9D%9E%E5%AE%8C%E6%95%B4%EF%BC%89.txt # 湖南移动高清ipv6（非完整）.txt
 https://raw.githubusercontent.com/1757580896/tvyuan/main/%E6%B9%96%E5%8D%97%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD.txt # 湖南联通组播.txt
+#北京
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E5%8C%97%E4%BA%AC111%E7%A7%BB%E5%8A%A8.txt # 北京111移动.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E5%8C%97%E4%BA%ACBPTV.txt # 北京BPTV.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E5%8C%97%E4%BA%AC%E7%94%B5%E4%BF%A1.txt # 北京电信.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E5%8C%97%E4%BA%AC%E7%94%B5%E4%BF%A1%E7%BB%84%E6%92%AD.txt # 北京电信组播.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E5%8C%97%E4%BA%AC%E7%A7%BB%E5%8A%A8.txt # 北京移动.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E5%8C%97%E4%BA%AC%E7%A7%BB%E5%8A%A8%E7%BB%84%E6%92%AD.txt # 北京移动组播.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD.txt # 北京联通组播.txt
+#陕西
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E9%99%95%E8%A5%BFV6.txt # 陕西V6.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E9%99%95%E8%A5%BF%E5%8D%8E%E6%95%B0%E8%81%94%E9%80%9A%E7%9B%B4%E6%92%AD%E6%BA%90.txt # 陕西华数联通直播源.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E9%99%95%E8%A5%BF%E5%AE%89%E5%BA%B7%E7%A7%BB%E5%8A%A8%E7%9B%B4%E6%92%AD%E6%BA%90.txt # 陕西安康移动直播源.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E9%99%95%E8%A5%BF%E5%B9%BF%E7%94%B5%E7%A7%A6%E5%B2%AD%E4%BA%91.txt # 陕西广电秦岭云.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E9%99%95%E8%A5%BF%E5%B9%BF%E7%94%B5%E7%A7%A6%E5%B2%AD%E4%BA%91CDN%E7%89%88.txt # 陕西广电秦岭云CDN版.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E9%99%95%E8%A5%BF%E6%B8%AD%E5%8D%97%E9%93%B6%E6%B2%B3%E7%A7%BB%E5%8A%A8IPTV%E7%9B%B4%E6%92%AD%E6%BA%90.txt # 陕西渭南银河移动IPTV直播源.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E9%99%95%E8%A5%BF%E7%94%B5%E4%BF%A1%E7%BB%84%E6%92%AD.txt # 陕西电信组播.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E9%99%95%E8%A5%BF%E7%A7%BB%E5%8A%A8%E5%9B%9E%E7%9C%8B.txt # 陕西移动回看.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E9%99%95%E8%A5%BF%E7%A7%BB%E5%8A%A8%E7%9B%B4%E6%92%AD%E6%BA%90.txt # 陕西移动直播源.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E9%99%95%E8%A5%BF%E8%81%94%E9%80%9A%E5%8D%95%E6%92%AD.txt # 陕西联通单播.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E9%99%95%E8%A5%BF%E8%A5%BF%E5%AE%89%E7%A7%BB%E5%8A%A8IPTV%E7%9B%B4%E6%92%AD%E6%BA%90.txt # 陕西西安移动IPTV直播源.txt
+
 
 https://raw.githubusercontent.com/my-tv1/tvyuan/main/%E9%85%B79%E4%B8%93%E7%BA%BF.txt # 酷9专线.txt
 https://raw.githubusercontent.com/1757580896/tvyuan/main/%E9%85%B79%E7%94%B5%E4%BF%A1V4%E7%9B%B4%E6%92%AD%E6%BA%90 # 酷9电信V4直播源
