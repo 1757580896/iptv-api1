@@ -2,11 +2,11 @@
 # This is a list of subscription sources, with one subscription address per line
 # https://raw.githubusercontent.com/ 这个可以删除
 https://cf111-6e2.pages.dev/https://raw.githubusercontent.com/1757580896/ziyong/main/cc%E5%AE%8C%E6%88%90.txt?token=aa123123
-https://raw.githubusercontent.com/https://raw.githubusercontent.com/1757580896/shaixuan/main/result.m3u?token=aa123123
+https://cf111-6e2.pages.dev/https://raw.githubusercontent.com/1757580896/shaixuan/main/result.m3u?token=aa123123
 #liao ning
 https://raw.githubusercontent.com/1757580896/ivp3/main/result.m3u 
-# https://raw.githubusercontent.com/https://raw.githubusercontent.com/1757580896/ziyong/main/liao.m3u?token=aa123123 #没整
-https://raw.githubusercontent.com/https://raw.githubusercontent.com/1757580896/ziyong/main/ziyong.txt?token=aa123123
+# https://cf111-6e2.pages.dev/https://raw.githubusercontent.com/1757580896/ziyong/main/liao.m3u?token=aa123123 #没整
+https://cf111-6e2.pages.dev/https://raw.githubusercontent.com/1757580896/ziyong/main/ziyong.txt?token=aa123123
 
 #888
 https://raw.githubusercontent.com/chunme/Live/main/hlj.m3u 
